@@ -10,7 +10,9 @@
  *  Created by Ivan Grokhotkov, 2015.
  *  This example is in public domain.
  *  
- *   For tutorial video of this code, watch out this video
+ *.  Code explained and commented by Sachin Soni
+ *  
+ *   For tutorial of this code, watch out this video
  *   https://youtu.be/dsmMzS3Qvg0
  *  
  *  visit 
